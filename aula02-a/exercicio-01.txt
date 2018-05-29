@@ -1,0 +1,25 @@
+COPO
+Atributos
+cor:transparente
+tampa: true
+canudo: true
+material: acrilico
+capacidade: 500ml
+Metodos()
+armazenarAgua()
+
+CALENDARIO
+Atributos
+material: papel
+tamanho: cartão
+cor: azul
+Metodos()
+informarDia()
+
+PRATICAR EXERCICIOS
+Atributos
+duração: 30min
+tipo: corrida
+Metodos()
+Correr()
+Descansar()
